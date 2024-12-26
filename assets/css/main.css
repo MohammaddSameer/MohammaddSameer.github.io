@@ -3049,6 +3049,8 @@ input, select, textarea {
 			justify-content: center;
 			width: 50em;
 			-ms-flex: 1;
+			margin-right: 2em; /* Added margin-right */
+			
 		}
 
 			.spotlights > section > .content > .inner {
