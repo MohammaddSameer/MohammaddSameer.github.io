@@ -3047,10 +3047,8 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
-			-ms-flex: 1;
-			margin-right: 2em; /* Added margin-right */
-			
+			width: 80em;
+			-ms-flex: 1;			
 		}
 
 			.spotlights > section > .content > .inner {
