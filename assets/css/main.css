@@ -3034,7 +3034,7 @@ input, select, textarea {
 			}
 
 		.spotlights > section > .content {
-			padding: 4em 5em 2em 5em ;
+			padding: 4em 5em 2em 8em ;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -3051,17 +3051,17 @@ input, select, textarea {
 			-ms-flex: 1;
 		}
 
-		.spotlights > section > .content > .inner {
-			-moz-transform: translateX(0) translateY(0) scale(1.1); /* Scale up by 10% */
-			-webkit-transform: translateX(0) translateY(0) scale(1.1);
-			-ms-transform: translateX(0) translateY(0) scale(1.1);
-			transform: translateX(0) translateY(0) scale(1.1);
-			-moz-transition: opacity 1s ease, -moz-transform 1s ease;
-			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
-			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
-			transition: opacity 1s ease, transform 1s ease;
-			opacity: 1;
-		}
+			.spotlights > section > .content > .inner {
+				-moz-transform: translateX(0) translateY(0);
+				-webkit-transform: translateX(0) translateY(0);
+				-ms-transform: translateX(0) translateY(0);
+				transform: translateX(0) translateY(0);
+				-moz-transition: opacity 1s ease, -moz-transform 1s ease;
+				-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
+				-ms-transition: opacity 1s ease, -ms-transform 1s ease;
+				transition: opacity 1s ease, transform 1s ease;
+				opacity: 1;
+			}
 
 		.spotlights > section:nth-child(2) {
 			background-color: rgba(0, 0, 0, 0.05);
