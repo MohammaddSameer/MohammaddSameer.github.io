@@ -1998,6 +1998,7 @@ input, select, textarea {
 			width: 50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
+			display: flex;
 		}
 
 			.features section:nth-child(-n + 2) {
