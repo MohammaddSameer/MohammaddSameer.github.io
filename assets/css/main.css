@@ -2563,7 +2563,6 @@ input, select, textarea {
 
 	.image {
 		border-radius: 0.25em;
-		border: 5px solid #000;
 		display: inline-block;
 		position: relative;
 	}
@@ -2571,7 +2570,6 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.25em;
 			display: block;
-			border: 5px solid #000;
 		}
 
 		.image.left, .image.right {
