@@ -2561,7 +2561,7 @@ input, select, textarea {
 
 /* Image */
 
-	.image {
+	/* .image {
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
@@ -2571,7 +2571,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.25em;
 			display: block;
-		}
+		} */
 
 		.image.left, .image.right {
 			max-width: 40%;
