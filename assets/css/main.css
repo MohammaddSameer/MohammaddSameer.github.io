@@ -1977,9 +1977,6 @@ input, select, textarea {
 				}
 
 /* Features */
-.centered-heading {
-    text-align: center;  /* Centers the heading horizontally */
-}
 
 	.features {
 		display: -moz-flex;
