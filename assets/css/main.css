@@ -258,6 +258,8 @@ input, select, textarea {
 
 		h6 {
 			font-size: 0.6em;
+			display: inline-block;
+			margin: 0;
 		}
 
 	}
