@@ -258,8 +258,6 @@ input, select, textarea {
 
 		h6 {
 			font-size: 0.6em;
-			display: inline-block;
-			margin: 0;
 		}
 
 	}
@@ -2481,7 +2479,6 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-		display: inline-block;
 	}
 
 		.icon:before {
