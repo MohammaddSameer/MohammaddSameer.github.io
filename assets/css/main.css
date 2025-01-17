@@ -3254,7 +3254,7 @@ input, select, textarea {
 			background-color: #953d75;
 		}
 
-		.wrapper.fullscreen {
+		/* .wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -3352,7 +3352,7 @@ input, select, textarea {
 		.wrapper.fade.inactive > .inner,
 		body.is-preload .wrapper.fade > .inner {
 			opacity: 0;
-		}
+		} */
 
 /* Header */
 
